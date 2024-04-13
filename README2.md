@@ -54,7 +54,7 @@ https://github.com/k1tit/netology-gitlab-hw/commit/4b5f75b32ab715aa61cefd0696957
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
-###Решение 2
+### Решение 2
 https://github.com/k1tit/netology-gitlab-hw/commit/04377164c9996e25987a8f2b8a2bdb59ac1d441d
 
 ---
